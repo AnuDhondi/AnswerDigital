@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/deploy/ffjcext.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/cldrdata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/nashorn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/ext/zipfs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/security/policy/limited/local_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/security/policy/limited/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/security/policy/unlimited/local_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Java/jre1.8.0_291/lib/security/policy/unlimited/US_export_policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Annu/Desktop/Selenium/Standalone/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
